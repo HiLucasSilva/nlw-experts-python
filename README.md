@@ -5,13 +5,16 @@ Aplicação back-end em Python, utilizando Flask como framework, onde foi feita 
 ## 🔗FUNCIONALIDADE
 -> Geração de código de barras a partir de um texto fornecido.
 
-## 👩‍💻TECNOLOGIAS USADAS / DEPENDENCIAS
- - Python
- - Pylint
- - Flask
- - Barcode
- - Venv
- - Cerberus : usado como validador
+## 👩‍💻DEPENDENCIAS
+  - python 3.1+
+  - pip3
+  - Flask
+  - venv
+  - barcode
+  - pillow
+  - pre-commit (git hook)
+  - Cerberus (validotor)
+  - pytest
    
 ## 📑 LICENSE
 This project is under the Mit license. See the file LICENSE for more details.
